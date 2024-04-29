@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "joshu-2-0-iypf",
+  "private_key_id": "c37c8ce4f0b4a6e0b628b242491dbbe9d7f0bb9e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDCKgfH1GuJHvaN\nBA2+e1oiACGMXTQGTbWYgfHTtaKuF6RAu8EIwQj24BDrU374lSEcXSv3D35Ewa0N\nK2S73iNrdHQOzk6ZaXsyxkZ4yRRMyyuh71rUrsrLDzO9TOY7aC5SfouaCDYFBjCv\n+Tmgvq4eiFZB4DHIHN/8C7Iwioucr7t7Qu6ryvmUx6PWyHnhoS5dcFTR4u/FaQop\ncyyEUnKWbFutzx+1FP+1n9mGHAwnc2Zdoi8wT57sAsOXQd9OsHgKHhhRxOQs0PRZ\nuxeR6gBKlP7QuvaI5OmdGhEl5fzxvbaXDGuIk6CbrFJGFmga/0u3Qje+xflcPEEh\nDBggl6rRAgMBAAECggEAXaa9Mv770Vssa48BfBduPYkXpWbNMZ8o0IMY29c3vMXt\ndUW6UVkeVEl2D7OpwgfYPSCZlKSV8F8Ec54zC8SVC/7S/dM3qRpuEGr/UcIXNwUm\nKgjTpFMcwH24JH3jbNMOyL594lFEkP7P3AkXaTefr11uUX7sNAvtY1pW27/voCZw\nb0MRaHXJyK6XBUSUUWSy72ROOXYevyxHb1XXWA+HCbXxP7/PMXQlnIzd1kGR1qiG\nzq1P4+p++cH82tWMbdAA5A7IWY6+n+JRN8Y48cZStl/nO9pqDHjAIUatsD+yMppz\n2ucLKSeZgRjQQu2iFRWF6gZx5zxaJ/KDZdyr8dX4+wKBgQD6/1ImtTwzFr6nU/qm\nQ8EZMr+Ac/k5JtFbaTCQXqifbRFrByYuL5cYXncfFzrzVWo+MU0XBXrytbw4QIif\n8My/hIftd08ybptF45OHnxGhDyRoBwzcbIsKxP1G2Hz1fdTMfcuC6ZVvmdc5cxDC\n5FNXE/CWys0OCEFz3BG9Yu6FPwKBgQDGCLnlS8HWxUyuQ4AtQpJk+jwqIv42lSx0\n5NTEfKa1zFjpY5t40Gm70CXe0KJGigMepcknj5P0LY2+/SZuLXoPo0ARcgQFb8qq\nhVX3IfC3Z2CvxArSyJGh5OO3QEZ7JH1sInRQWZ1IWH0XRX8K/JFPsqzGU5P3o7Z8\n0K6NqRx77wKBgQDJRzRO3ClxYrzzHFI1QMI5/cs6LEZggXOEFX+fVnlsl59PL8V7\nZiiJnz9xjER23Dk9tHV4j6l/tyNADOhDMmxO7O3ADVxSOgaEbjJhoLsXaDguv/Cd\nVuHNehkN1g+nIggjEIHB8qUmgLzqUg7P6x+2BcR6eBkmNpKeYY1MTWivKwKBgENN\neegsu/8C5NGgzTIUmu5IgSQM6nqgbhB4KLtyZbIJdfozyQXhRt32mrhEDbKNewvy\nag/Q4wasaK0NGf994yrnX4HOTwGOAcG8OQAZf9bFAn4Z0VfbpGryAFYqOQnm191l\nRER+gE6zDChZjRitx7DfV4q7ouEZuY5n2br5S13vAoGABdwz3ScBraVRiSlFBgnB\nlINl/qkEFNuAZtaMGedVEjZjfeL/sza6VzhLZHShlFysxLZszsHpBBXCO+b8+1hn\n+IuEzoku3k1ocX0kiScjf/jHhrHS3Nc+PTV8luM8ivMX9FzfIykf/zGJr0AEFzlc\nbZNWxAblRmNTmmXamD0xoSc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "yakhotel-526@joshu-2-0-iypf.iam.gserviceaccount.com",
+  "client_id": "100981811557147337220",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/yakhotel-526%40joshu-2-0-iypf.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

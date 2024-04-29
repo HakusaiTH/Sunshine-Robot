@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-storage.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-database.js"></script> 
+
+    <link rel="stylesheet" href="/style_face.css">
+
+    <title>Robotface</title>
+</head>
+<body>
+    <div class="ennable_sound" id="ennable_sound">
+        <h1>click to enable sound</h1>
+    </div>
+
+    <div class="content" id="content">     
+        <img src="/img/N_0.gif" alt="" class="face_img" id="face_img">
+        <div class="item_content">
+            <div class="item" id="face_reco">
+                <i class="fa-solid fa-face-grin fa-5x"></i>
+            </div>
+            <div class="item" id="obj_detect">
+                <i class="fa-solid fa-circle-question fa-5x"></i>
+            </div>
+        </div>
+        <div class="alert" id="ai_content">
+            <img src="/img/ambutakam.jpeg" alt="" id="ai_content_img">
+            <h1 id="ai_content_text"></h1>
+            <div class="close" id="ai_close"><h4>X</h4></div>
+        </div>
+        <div class="alert" id="alert_content">
+            <img src="/img/fire.jpg" alt="">
+            <h1>ตรวจพบควันไฟในห้อง</h1>
+            <div class="close" id="close"><h4>X</h4></div>
+        </div>
+    </div>
+
+    <script src="/script_face.js"></script>
+    <script src="https://kit.fontawesome.com/991e72c086.js" crossorigin="anonymous"></script>
+</body>
+</html>
