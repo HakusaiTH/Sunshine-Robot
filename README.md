@@ -1,4 +1,4 @@
-https://drive.google.com/file/d/1Fk1rUY5jHU5QK7SKok4J0ws_DZH_XOsA/view
+https://drive.google.com/file/d/1Fk1rUY5jHU5QK7SKok4J0ws_DZH_XOsA/view?usp=sharing
 
 
 ![1](https://github.com/HakusaiTH/Sunshine-Robot/assets/104154862/a9b28cde-8119-41bf-b0b4-4c8b8b9fed6f)
